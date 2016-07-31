@@ -22,3 +22,9 @@ puts(integerSample.class)
 
 integerSample = integerSample **100
 puts(integerSample.class)
+
+## FLOAT
+puts(3.14.class)
+floatNumber = 3.14*3.14
+puts(floatNumber.class)
+
