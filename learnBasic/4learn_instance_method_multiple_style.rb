@@ -11,3 +11,5 @@ end
 Animal.fungi
 animalInstance = Animal.new
 animalInstance.classMethodCat
+#sample for print instance methods
+puts (Animal.instance_methods(false))
